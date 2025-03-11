@@ -1,0 +1,94 @@
+{"frames": {
+
+"errorScene.png":
+{
+	"frame": {"x":1,"y":1,"w":1094,"h":574},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1094,"h":574},
+	"sourceSize": {"w":1094,"h":574}
+},
+"meter_blue.png":
+{
+	"frame": {"x":1051,"y":577,"w":296,"h":50},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":50},
+	"sourceSize": {"w":296,"h":50}
+},
+"meter_bonus.png":
+{
+	"frame": {"x":1097,"y":1,"w":450,"h":50},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":50},
+	"sourceSize": {"w":450,"h":50}
+},
+"meter_bonus_grid1.png":
+{
+	"frame": {"x":999,"y":905,"w":69,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":25},
+	"sourceSize": {"w":69,"h":25}
+},
+"meter_green.png":
+{
+	"frame": {"x":999,"y":577,"w":326,"h":50},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":326,"h":50},
+	"sourceSize": {"w":326,"h":50}
+},
+"meter_pink.png":
+{
+	"frame": {"x":1103,"y":453,"w":416,"h":50},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":416,"h":50},
+	"sourceSize": {"w":416,"h":50}
+},
+"meter_purple.png":
+{
+	"frame": {"x":1149,"y":1,"w":450,"h":50},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":50},
+	"sourceSize": {"w":450,"h":50}
+},
+"meter_red.png":
+{
+	"frame": {"x":1155,"y":453,"w":385,"h":50},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":385,"h":50},
+	"sourceSize": {"w":385,"h":50}
+},
+"meter_yellow.png":
+{
+	"frame": {"x":947,"y":577,"w":356,"h":50},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":356,"h":50},
+	"sourceSize": {"w":356,"h":50}
+},
+"popupBG.png":
+{
+	"frame": {"x":1,"y":577,"w":944,"h":374},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":944,"h":374},
+	"sourceSize": {"w":944,"h":374}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "plaques.png",
+	"format": "RGBA8888",
+	"size": {"w":1206,"h":952},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0c5d68926fae79f906e2005593e2f82e:1eb2e2d08ed83839c2bf667ac269e492:b60dc3037ae02771bb07e02016ac1896$"
+}
+}

@@ -1,0 +1,110 @@
+{
+    "audioLoader":
+    {
+        "yes": "Ja",
+        "no": "Nee",
+        "confirm": "Wil je geluid?"
+    },
+    "title": "EMOTICOLLECT SUPER SPIN",
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "van {@minRTP}% tot {@maxRTP}%",
+        "RTPrangeStatic": "van 85,00% tot 93,00%",
+        "paybackTitle": "Verwachte uitbetalingspercentage",
+        "paybackBody": "Voor dit spel is het theoretisch verwachte uitbetalingspercentage op lange termijn {RTP}."
+    },
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Help",
+            "name": "EmotiCollect SUPER SPIN",
+            "payTable": "Uitbetalingstabel",
+            "price": "Prijs",
+            "stake": "Inzet",
+            "balance": "Saldo",
+            "prizeDivision": "Prijsverdeling",
+            "prizeValue": "Prijswaarde",
+            "approximatePrize": "Resterende prijzen bij benadering",
+            "oddsPerPlay": "Kansen per spel",
+            "overAllOdds": "Er is een algemene kans van 1 op {oddNum} om een prijs te winnen in elk spel",
+            "availablePrices": "Beschikbare prijspunten:{prices}"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Help",
+            "name": "EmotiCollect SUPER SPIN",
+            "payTable": "Uitbetalingstabel",
+            "price": "Prijs",
+            "stake": "Inzet",
+            "balance": "Saldo"
+        },
+        "audio":
+        {
+            "on": "Aan",
+            "off": "Uit",
+            "sound": "Geluid"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Fout:29000\n\nEr is een interne fout opgetreden.\nVERLAAT het spel en start het opnieuw op."
+    },
+    "Game":
+    {
+        "tutorial":
+        {
+            "tutorialTitle": "SPELUITLEG",
+            "tutorialPage": "Start het spel met 6 rondes op het rad. {n} Verzamel de 3 emoticons die zijn gemarkeerd onder de indicator in het buitenste rad. {n} Verhoog het aantal verzamelde Emoticons door een {T01} of {T02} op het middelste rad te draaien. {n} Verzamel alle Emoticons in de bijbehorende gekleurde prijsmeter om een prijs te winnen.",
+            "tutorialPage01": "Verzamel een {T03} om de indicator op het buitenste rad uit te breiden naar 5 Emoticons. {n} Verzamel een {T04} voor een extra ronde. {n} Verzamel een {T05} om een directe prijs te winnen. {n} Verzamel 5 {T06} in de prijsmeter om het bonusspel te activeren.",
+            "tutorialPage02": "Begin met 3 rondes in het bonusspel. {n} Verzamel 4 of meer {T06} in het raster om een prijs te winnen. {n} Als er tijdens elke ronde een {T06} wordt verzameld, worden de resterende rondes teruggezet naar 3. {n} Ga door met draaien totdat er geen rondes meer zijn of alle 16 {T06} zijn verzameld."
+        },
+        "BONUS": "BONUS",
+        "totalbonuswin": "BONUSWINST",
+        "IWText": "KIES EEN DIRECTE-WINST-EMOJI",
+        "bonuswin": "BONUSWINST",
+        "find": "ZOEKEN",
+        "win": "WINST",
+        "demo": " ",
+        "spin_Left": "RESTERENDE\nRONDES",
+        "autospin": "ONTHUL ALLES",
+        "button_buy": "SPELEN",
+        "button_try": "PROBEREN",
+        "button_spin": "DRAAIEN",
+        "button_move2moneyGame": "SPELEN MET ECHT GELD",
+        "button_autoPlay": "ONTHUL ALLES",
+        "button_playAgain": "OPNIEUW SPELEN",
+        "button_MTMPlayAgain": "OPNIEUW PROBEREN",
+        "button_retry": "OPNIEUW PROBEREN",
+        "button_stop": "STOP",
+        "wager": "INZET",
+        "meter_wager": "INZET ",
+        "balance": "SALDO ",
+        "wins": "WINST",
+        "wins_demo": "WINST",
+        "message_nonWin01": "VOLGENDE KEER",
+        "message_nonWin02": "BETER",
+        "message_buyWin": "GEFELICITEERD MET JE PRIJS VAN",
+        "message_tryWin": "DANK VOOR HET SPELEN.\nJE HAD DE KANS OP",
+        "message_anonymousTryWin": "TOTALE DEMOWINST",
+        "message_close": "OK",
+        "button_exit": "AFSLUITEN",
+        "session_timeout_warning_exit_button": "AFSLUITEN",
+        "error_button_exit": "AFSLUITEN",
+        "warning_button_continue": "DOORGAAN",
+        "warning_button_exitGame": "AFSLUITEN",
+        "warning_title": "WAARSCHUWING",
+        "error_title": "FOUT",
+        "win_up_to": "WIN TOT",
+        "win_up_to_mark": "!",
+        "tutorial_title": "SPELUITLEG",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Prijsniveau",
+        "prizeDescription": "Beschrijving",
+        "prizeValue": "Prijswaarde",
+        "paytableWager": "Inzet:",
+        "endBonus": "RESTERENDE\nRONDES"
+    }
+}

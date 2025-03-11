@@ -1,0 +1,110 @@
+{
+    "audioLoader":
+    {
+        "yes": "Ja",
+        "no": "Nej",
+        "confirm": "Vill du ha ljudet på?"
+    },
+    "title": "Hymiöhyrrä",
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP} %",
+        "RTPrange": "från {@minRTP} % till {@maxRTP} %",
+        "RTPrangeStatic": "från 85,00–93,00 %",
+        "paybackTitle": "Förväntad återbetalning",
+        "paybackBody": "För det här spelet är den långsiktiga, teoretiskt förväntade återbetalningen {RTP}."
+    },
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Spelinstruktioner",
+            "name": "Hymiöhyrrä",
+            "payTable": "Vinsttabell",
+            "price": "Pris",
+            "stake": "Insats",
+            "balance": "Saldo",
+            "prizeDivision": "Prisfördelning",
+            "prizeValue": "Prisvärde",
+            "approximatePrize": "Ungefärliga priser kvar",
+            "oddsPerPlay": "Odds per spel",
+            "overAllOdds": "Det finns 1 chans på {oddNum} att vinna ett pris på varje spel",
+            "availablePrices": "Tillgängliga prispoäng: {prices}"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Spelinstruktioner",
+            "name": "Hymiöhyrrä",
+            "payTable": "Vinsttabell",
+            "price": "Pris",
+            "stake": "Insats",
+            "balance": "Saldo"
+        },
+        "audio":
+        {
+            "on": "På",
+            "off": "Av",
+            "sound": "Ljud"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Fel: 29000\n\nDet har uppstått ett internt fel.\nAVSLUTA och starta om spelet."
+    },
+    "Game":
+    {
+        "tutorial":
+        {
+            "tutorialTitle": "SPELINSTRUKTION",
+            "tutorialPage": "Starta spelet med 6 hjulsnurr. {n} Samla de 3 emojis som är markerade under indikatorn i det yttre hjulet. {n} Öka antalet emojis som samlas in genom att snurra fram {n} en {T01} eller {T02} på mitthjulet. {n} Samla alla emojis i motsvarande färgade prismätare för att vinna en vinst.",
+            "tutorialPage01": "Samla en {T03} för att expandera indikatorn på det yttre hjulet till 5 emojis. {n} Samla en {T04} för att få ett extra snurr. {n} Samla en {T05} för att vinna ett omedelbart pris. {n} Samla 5 {T06} i prismätaren för att aktivera bonusspelet.",
+            "tutorialPage02": "Börja med 3 inledande snurr i bonusspelet. {n} Samla 4 eller fler {T06} på spelplanen för att vinna ett pris. {n} Om en {T06} samlas in på ett snurr återställs återstående snurr till 3. {n} Fortsätt snurra tills inga snurr återstår eller tills alla 16 {T06} är insamlade."
+        },
+        "BONUS": "BONUS",
+        "totalbonuswin": "TOTAL\nBONUS-DEMOVINST",
+        "IWText": "VÄLJ EN DIREKTVINST-EMOJI",
+        "bonuswin": "TOTAL\nBONUS-DEMOVINST",
+        "find": "HITTA",
+        "win": "VINST",
+        "demo": "PRÖVA ",
+        "spin_Left": "SNURR\nKVAR",
+        "autospin": "AUTOSNURR",
+        "button_buy": "KÖP",
+        "button_try": "PRÖVA",
+        "button_spin": "FÖRSÖK",
+        "button_move2moneyGame": "FLYTTA TILL PENGAR",
+        "button_autoPlay": "AUTOSNURR",
+        "button_playAgain": "SPELA IGEN",
+        "button_MTMPlayAgain": "FÖRSÖK IGEN",
+        "button_retry": "FÖRSÖK IGEN",
+        "button_stop": "STOPP",
+        "wager": "LOTTERIETS PRIS",
+        "meter_wager": "LOTTERIETS PRIS ",
+        "balance": "SALDO ",
+        "wins": "VINSTER",
+        "wins_demo": "VINSTER",
+        "message_nonWin01": "\nINGEN VINST\nDENNA GÅNG",
+        "message_nonWin02": "",
+        "message_buyWin": "GRATULERAR,\nDU HAR VUNNIT",
+        "message_tryWin": "DU SKULLE\nHA VUNNIT",
+        "message_anonymousTryWin": "DU SKULLE\nHA VUNNIT",
+        "message_close": "OK",
+        "button_exit": "AVSLUTA",
+        "session_timeout_warning_exit_button": "AVSLUTA",
+        "error_button_exit": "AVSLUTA",
+        "warning_button_continue": "FORTSÄTT",
+        "warning_button_exitGame": "AVSLUTA",
+        "warning_title": "VARNING",
+        "error_title": "FEL",
+        "win_up_to": "HUVUDVINST",
+        "win_up_to_mark": "",
+        "tutorial_title": "SPELINSTRUKTION",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Prisnivå",
+        "prizeDescription": "Beskrivning",
+        "prizeValue": "Prisvärde",
+        "paytableWager": "Lotteriets Pris:",
+        "endBonus": "SNURR\nKVAR"
+    }
+}

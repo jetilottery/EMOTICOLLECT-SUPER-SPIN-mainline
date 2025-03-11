@@ -1,0 +1,73 @@
+{
+  "urls": [
+    "ch3.ogg",
+    "ch3.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "BaseMeterWin1": [
+      1050,
+      1500.5215419501135
+    ],
+    "BaseMeterWin2": [
+      3100,
+      1924.0816326530612
+    ],
+    "BaseMeterWin3": [
+      5150,
+      1500.5215419501133
+    ],
+    "BaseMeterWin4": [
+      7200,
+      1649.637188208616
+    ],
+    "BaseMeterWin5": [
+      9250,
+      1503.242630385488
+    ],
+    "BaseMeterWin6": [
+      11300,
+      1648.0952380952374
+    ],
+    "BaseSpinFlyToMeterIncrement": [
+      13350,
+      2047.0068027210875
+    ],
+    "BaseSpinStopSymbol1": [
+      16400,
+      1266.6666666666656
+    ],
+    "BaseSpinStopSymbol2": [
+      18450,
+      1196.0317460317463
+    ],
+    "BaseSpinStopSymbol3": [
+      20500,
+      1550.0000000000007
+    ],
+    "BaseSpinStopSymbol4": [
+      22550,
+      1550.0000000000007
+    ],
+    "BaseSpinStopSymbol5": [
+      24600,
+      1214.036281179137
+    ],
+    "BaseSpinStopSymbol6": [
+      26650,
+      1545.6689342403643
+    ],
+    "BaseSpinStopSymbolBonus": [
+      28700,
+      1467.9818594104327
+    ],
+    "BonusSymbolHighlight": [
+      30750,
+      1679.886621315191
+    ]
+  }
+}

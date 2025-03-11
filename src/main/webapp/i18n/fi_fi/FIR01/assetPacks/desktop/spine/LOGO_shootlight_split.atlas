@@ -1,0 +1,41 @@
+
+LOGO_shootlight_split.png
+size: 816,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LOGO
+  rotate: false
+  xy: 0, 0
+  size: 654, 154
+  orig: 654, 154
+  offset: 0, 0
+  index: -1
+cash
+  rotate: false
+  xy: 656, 16
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+cash_1
+  rotate: false
+  xy: 724, 26
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+cash_5
+  rotate: true
+  xy: 765, 92
+  size: 62, 51
+  orig: 62, 51
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 656, 82
+  size: 107, 72
+  orig: 107, 72
+  offset: 0, 0
+  index: -1

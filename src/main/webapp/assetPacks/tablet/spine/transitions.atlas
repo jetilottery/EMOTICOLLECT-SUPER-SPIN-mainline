@@ -1,0 +1,183 @@
+
+transitions.png
+size: 810,810
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+transs
+  rotate: false
+  xy: 0, 0
+  size: 810, 810
+  orig: 810, 810
+  offset: 0, 0
+  index: -1
+
+transitions2.png
+size: 1622,1977
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Particle_Shower/Particle_Shower_00001
+  rotate: false
+  xy: 811, 29
+  size: 591, 324
+  orig: 810, 810
+  offset: 218, 483
+  index: -1
+Particle_Shower/Particle_Shower_00003
+  rotate: false
+  xy: 0, 0
+  size: 809, 353
+  orig: 810, 810
+  offset: 1, 457
+  index: -1
+Particle_Shower/Particle_Shower_00005
+  rotate: false
+  xy: 0, 1167
+  size: 810, 810
+  orig: 810, 810
+  offset: 0, 0
+  index: -1
+Particle_Shower/Particle_Shower_00007
+  rotate: false
+  xy: 0, 355
+  size: 810, 810
+  orig: 810, 810
+  offset: 0, 0
+  index: -1
+Particle_Shower/Particle_Shower_00009
+  rotate: false
+  xy: 812, 1167
+  size: 810, 810
+  orig: 810, 810
+  offset: 0, 0
+  index: -1
+Particle_Shower/Particle_Shower_00011
+  rotate: false
+  xy: 812, 355
+  size: 810, 810
+  orig: 810, 810
+  offset: 0, 0
+  index: -1
+
+transitions3.png
+size: 1615,1541
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Particle_Shower/Particle_Shower_00029
+  rotate: false
+  xy: 0, 5
+  size: 803, 774
+  orig: 810, 810
+  offset: 0, 0
+  index: -1
+Particle_Shower/Particle_Shower_00031
+  rotate: false
+  xy: 805, 0
+  size: 810, 779
+  orig: 810, 810
+  offset: 0, 3
+  index: -1
+Particle_Shower/Particle_Shower_00037
+  rotate: false
+  xy: 594, 781
+  size: 810, 760
+  orig: 810, 810
+  offset: 0, 22
+  index: -1
+Particle_Shower/Particle_Shower_00039
+  rotate: false
+  xy: 0, 1099
+  size: 592, 442
+  orig: 810, 810
+  offset: 127, 193
+  index: -1
+
+transitions4.png
+size: 1622,1602
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Particle_Shower/Particle_Shower_00013
+  rotate: false
+  xy: 812, 811
+  size: 810, 791
+  orig: 810, 810
+  offset: 0, 19
+  index: -1
+Particle_Shower/Particle_Shower_00023
+  rotate: false
+  xy: 0, 16
+  size: 810, 805
+  orig: 810, 810
+  offset: 0, 0
+  index: -1
+Particle_Shower/Particle_Shower_00033
+  rotate: false
+  xy: 812, 0
+  size: 810, 809
+  orig: 810, 810
+  offset: 0, 0
+  index: -1
+Particle_Shower/Particle_Shower_00035
+  rotate: false
+  xy: 0, 823
+  size: 810, 779
+  orig: 810, 810
+  offset: 0, 18
+  index: -1
+
+transitions5.png
+size: 1622,1622
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Particle_Shower/Particle_Shower_00015
+  rotate: false
+  xy: 0, 812
+  size: 810, 810
+  orig: 810, 810
+  offset: 0, 0
+  index: -1
+Particle_Shower/Particle_Shower_00017
+  rotate: false
+  xy: 0, 0
+  size: 810, 810
+  orig: 810, 810
+  offset: 0, 0
+  index: -1
+Particle_Shower/Particle_Shower_00019
+  rotate: false
+  xy: 812, 812
+  size: 810, 810
+  orig: 810, 810
+  offset: 0, 0
+  index: -1
+Particle_Shower/Particle_Shower_00021
+  rotate: false
+  xy: 812, 0
+  size: 810, 810
+  orig: 810, 810
+  offset: 0, 0
+  index: -1
+
+transitions6.png
+size: 1622,810
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Particle_Shower/Particle_Shower_00025
+  rotate: false
+  xy: 0, 0
+  size: 810, 810
+  orig: 810, 810
+  offset: 0, 0
+  index: -1
+Particle_Shower/Particle_Shower_00027
+  rotate: false
+  xy: 812, 0
+  size: 810, 810
+  orig: 810, 810
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,101 @@
+﻿{
+    "audioLoader": {
+        "yes": "Ja",
+        "no": "Nei",
+        "confirm": "Ønsker du lyd?"
+    },
+    "title": "EMOTI SUPER SHOW",
+    "Paytable": {
+        "RTPvalue": "{@minRTP} %",
+        "RTPrange": "fra {@minRTP} % til {@maxRTP} %",
+        "RTPrangeStatic": "fra 85,00 % til 93,00 %",
+        "paybackTitle": "Premieandel",
+        "paybackBody": "For dette spillet er langsiktig, teoretisk oppgitt premieandeltandel {RTP}."
+    },
+    "MenuCommand": {
+        "WLA": {
+            "howToPlay": "SLIK SPILLER DU",
+            "name": "Emoti Super Show",
+            "payTable": "Premieoversikt",
+            "price": "Pris",
+            "stake": "Innsats",
+            "balance": "Saldo",
+            "prizeDivision": "Premieoversikt",
+            "prizeValue": "Premieverdi",
+            "approximatePrize": "Omtrentlige gjenværende premier",
+            "oddsPerPlay": "Vinnersjanse",
+            "overAllOdds": "Det er en samlet sjanse på 1 til {oddNum} for å vinne en premie på hvert spill",
+            "availablePrices": "Tilgjengelige innsatsnivåer:{prices}"
+        },
+        "Commercial": {
+            "howToPlay": "Slik spiller du",
+            "name": "Emoti Super Show",
+            "payTable": "Premieoversikt",
+            "price": "Pris",
+            "stake": "Innsats",
+            "balance": "Saldo"
+        },
+        "audio": {
+            "on": "På",
+            "off": "Av",
+            "sound": "Lyd"
+        }
+    },
+    "Error": {
+        "error29000": "Feil:29000\n\nDet oppstod en intern feil.\nAVSLUTT og start spillet på nytt."
+    },
+    "Game": {
+        "tutorial": {
+            "tutorialTitle": "SLIK SPILLER DU",
+            "tutorialPage": "Start spillet med 6 forsøk på å snurre hjulet. {n} Samle de 3 emojis som fremheves under indikatoren på det ytre hjulet. {n} Øk antallet emojis som samles inn ved å treffe på en {T01} eller {T02} på det midterste hjulet. {n} Samle alle emojis på den tilsvarende fargede premiemåleren for å vinne en premie.",
+            "tutorialPage01": "Samle en {T03} for å utvide indikatoren på det ytre hjulet til 5 emojis. {n} Samle {T04} for å få et ekstra forsøk. {n} Samle {T05} for å vinne en umiddelbar premie. {n} Samle 5 {T06} på premiemåleren for å aktivere tilleggsspillet Stjerner I Øynene.",
+            "tutorialPage02": "Start med 3 forsøk i tilleggsspillet Stjerner I Øynene. {n} Samle 4 eller flere {T06} på rutenettet for å vinne en premie. {n} Dersom en {T06} samles inn på et forsøk, tilbakestilles gjenværende forsøk til 3. {n} Fortsett å snurre frem til det ikke er flere forsøk igjen, eller alle 16 {T06} er samlet inn."
+        },
+        "BONUS":" ",
+        "totalbonuswin": "SAMLET PREMIE STJERNER I ØYNENE",
+        "IWText": "VELG EMOJI FOR EN UMIDDELBAR PREMIE",
+        "bonuswin": "PREMIE - STJERNER I ØYNENE",
+        "find": "FINN",
+        "win": "VINN",
+        "demo": "PRØVESPILL ",
+        "spin_Left": "FORSØK\nIGJEN",
+        "autospin": "FULLFØR",
+        "button_buy": "SPILL",
+        "button_try": "PRØVESPILL",
+        "button_spin": "SNURR",
+        "button_move2moneyGame": "SPILL FOR EKTE PENGER",
+        "button_autoPlay": "FULLFØR",
+        "button_playAgain": "SPILL IGJEN",
+        "button_MTMPlayAgain": "SPILL IGJEN",
+        "button_retry": "SPILL IGJEN",
+        "button_stop": "STOPP",
+        "wager": "PRIS",
+        "meter_wager": "PRIS ",
+        "balance": "SALDO ",
+        "wins": "PREMIE",
+        "wins_demo": "PREMIE PRØVESPILL",
+        "message_nonWin01": "BEKLAGER,",
+        "message_nonWin02": "INGEN PREMIE",
+        "message_buyWin": "SAMLET PREMIE",
+        "message_tryWin": "PREMIE PRØVESPILL! \nHADDE DETTE VÆRT ET SPILL FOR EKTE PENGER, HADDE DU VUNNET",
+        "message_anonymousTryWin": "PREMIE PRØVESPILL! \nHADDE DETTE VÆRT ET SPILL FOR EKTE PENGER, HADDE DU VUNNET",
+        "message_close": "OK",
+        "button_exit": "AVSLUTT",
+        "session_timeout_warning_exit_button": "AVSLUTT",
+        "error_button_exit": "AVSLUTT",
+        "warning_button_continue": "FORTSETT",
+        "warning_button_exitGame": "AVSLUTT",
+        "warning_title": "ADVARSEL",
+        "error_title": "FEIL",
+        "win_up_to": "TOPPREMIE",
+        "win_up_to_mark": "!",
+        "tutorial_title": "SLIK SPILLER DU",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Premienivå",
+        "prizeDescription": "Beskrivelse",
+        "prizeValue": "Premieverdi",
+        "paytableWager": "Pris:",
+        "endBonus": "FORSØK\nIGJEN"
+    }
+}

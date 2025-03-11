@@ -1,0 +1,110 @@
+{
+    "audioLoader":
+    {
+        "yes": "Kyllä",
+        "no": "Ei",
+        "confirm": "Haluatko äänet käyttöön?"
+    },
+    "title": "Hymiöhyrrä",
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP} %",
+        "RTPrange": "{@minRTP} % – {@maxRTP} %",
+        "RTPrangeStatic": "85,00 % – 93,00 %",
+        "paybackTitle": "Odotettu takaisinmaksu",
+        "paybackBody": "Tämän pelin teoreettinen odotettu takaisinmaksu pitkällä aikavälillä on {RTP}."
+    },
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Peliohjeet",
+            "name": "Hymiöhyrrä",
+            "payTable": "Voittotaulu",
+            "price": "Hinta",
+            "stake": "ARVAN HINTA",
+            "balance": "Saldo",
+            "prizeDivision": "Palkintojakauma",
+            "prizeValue": "Voitto",
+            "approximatePrize": "Arvioitu jäljellä olevien palkintojen määrä",
+            "oddsPerPlay": "Voittosuhde",
+            "overAllOdds": "Todennäköisyys voittaa palkinto jokaisella pelillä on 1:{oddNum}",
+            "availablePrices": "Saatavilla olevat hintapisteet:{prices}"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Peliohjeet",
+            "name": "Hymiöhyrrä",
+            "payTable": "Voittotaulu",
+            "price": "Hinta",
+            "stake": "ARVAN HINTA",
+            "balance": "Saldo"
+        },
+        "audio":
+        {
+            "on": "Päällä",
+            "off": "Pois päältä",
+            "sound": "Äänet"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Virhe:29000\n\nTapahtui sisäinen virhe.\nPOISTU ja käynnistä peli uudelleen."
+    },
+    "Game":
+    {
+        "tutorial":
+        {
+            "tutorialTitle": "PELIOHJE",
+            "tutorialPage": "Aloita peli 6 pyörän pyöräytyksellä. {n} Kerää 3 hymiötä, jotka näytetään ulomman pyörän osoittimen alla. {n} Lisää kerättyjen hymiöiden määrää pyöräyttämällä keskimmäiseen pyörään {T01} tai {T02}. {n} Kerää kaikki hymiöt vastaavan väriseen palkintomittariin voittaaksesi palkinnon.",
+            "tutorialPage01": "Kerää {T03} laajentaaksesi ulomman pyörän ilmaisimen 5 hymiöön. {n} Kerää {T04} saadaksesi lisäpyöräytyksen. {n} Kerää {T05} voittaaksesi pikapalkinnon. {n} Kerää 5 {T06} palkintomittariin käynnistääksesi bonuspelin.",
+            "tutorialPage02": "Aloita 3 pyöräytyksellä bonuspelissä. {n} Kerää ruudukkoon 4 tai useampi {T06} voittaaksesi palkinnon. {n} Jos jokaisella pyöräytyksellä kerätään {T06}, jäljellä olevien pyöräytysten määräksi palautetaan 3. {n} Jatka pyörittämistä, kunnes pyöräytyksiä ei ole enää jäljellä tai kaikki 16 {T06} on kerätty."
+        },
+        "BONUS": "BONUS",
+        "totalbonuswin": "KOKONAISBONUSVOITTO",
+        "IWText": "VALITSE PIKAVOITTOEMOJI",
+        "bonuswin": "KOKONAISBONUSVOITTO",
+        "find": "ETSI",
+        "win": "VOITOT",
+        "demo": "KOKEILE ",
+        "spin_Left": "PYÖRÄYTYSTÄ\nJÄLJELLÄ",
+        "autospin": "AUTOMAATTIPELI",
+        "button_buy": "OSTA",
+        "button_try": "KOKEILE",
+        "button_spin": "YRITYS",
+        "button_move2moneyGame": "SIIRRY RAHAAN",
+        "button_autoPlay": "AUTOMAATTIPELI",
+        "button_playAgain": "PELAA UUDELLEEN",
+        "button_MTMPlayAgain": "YRITÄ UUDELLEEN",
+        "button_retry": "YRITÄ UUDELLEEN",
+        "button_stop": "PYSÄYTÄ",
+        "wager": "ARVAN HINTA",
+        "meter_wager": "ARVAN HINTA",
+        "balance": "SALDO ",
+        "wins": "VOITOT",
+        "wins_demo": "VOITOT",
+        "message_nonWin01": "\nEI VOITTOA\nTÄLLÄ KERTAA",
+        "message_nonWin02": "",
+        "message_buyWin": "ONNEKSI OLKOON, VOITIT",
+        "message_tryWin": "OLISIT VOITTANUT",
+        "message_anonymousTryWin": "OLISIT VOITTANUT",
+        "message_close": "OK",
+        "button_exit": "POISTU",
+        "session_timeout_warning_exit_button": "POISTU",
+        "error_button_exit": "POISTU",
+        "warning_button_continue": "JATKA",
+        "warning_button_exitGame": "POISTU",
+        "warning_title": "VAROITUS",
+        "error_title": "VIRHE",
+        "win_up_to": "PÄÄVOITTO",
+        "win_up_to_mark": "",
+        "tutorial_title": "PELIOHJE",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Palkintotaso",
+        "prizeDescription": "Kuvaus",
+        "prizeValue": "Voitto",
+        "paytableWager": "Arvan hinta:",
+        "endBonus": "YRITYKSIÄ\nJÄLJELLÄ"
+    }
+}

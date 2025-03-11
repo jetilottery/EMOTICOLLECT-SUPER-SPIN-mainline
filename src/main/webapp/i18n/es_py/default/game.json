@@ -1,0 +1,112 @@
+{
+    "audioLoader":
+    {
+        "yes": "Sí",
+        "no": "No",
+        "confirm": "¿Quieres activar el sonido?"
+    },
+    "title": "Locura Emoji",
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "de {@minRTP}% a {@maxRTP}%",
+        "RTPrangeStatic": "de 85,00% a 93,00%",
+        "paybackTitle": "Retorno estimado",
+        "paybackBody": "Para este juego, el retorno estimado a largo plazo es del {RTP}."
+    },
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Ayuda",
+            "name": "Locura Emoji",
+            "payTable": "Premios",
+            "payTableTitle": "Tabla de Premios",
+            "price": "Precio",
+            "stake": "Apuesta",
+            "balance": "Saldo",
+            "prizeDivision": "División de premio",
+            "prizeValue": "Valor de premios",
+            "approximatePrize": "Premio restante aproximado",
+            "oddsPerPlay": "Probabilidades por jugada",
+            "overAllOdds": "Hay una probabilidad de 1 en {oddNum} de ganar un premio con cada jugada.",
+            "availablePrices": "Precios disponibles:{prices}"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Ayuda",
+            "name": "Locura Emoji",
+            "payTable": "Premios",
+            "payTableTitle": "Tabla de Premios",
+            "price": "Precio",
+            "stake": "Apuesta",
+            "balance": "Saldo"
+        },
+        "audio":
+        {
+            "on": "Activar",
+            "off": "Desactivar",
+            "sound": "Sonido"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Error: 29000\n\nSe produjo un error interno.\nHaz clic en SALIR y reinicia el juego."
+    },
+    "Game":
+    {
+        "tutorial":
+        {
+            "tutorialTitle": "CÓMO JUGAR",
+            "tutorialPage": "Empieza el juego con 6 giros de la ruleta. {n} Junta los 3 emojis que están resaltados bajo el indicador en la ruleta exterior. {n} Aumenta la cantidad de emojis reunidos consiguiendo un {T01} o un {T02} en la ruleta central. {n} Junta todos los emojis en el medidor de premios del color correspondiente para ganar un premio.",
+            "tutorialPage01": "Consigue un {T03} para expandir el indicador de la ruleta exterior a 5 emojis. {n} Consigue un {T04} para obtener un giro extra. {n} Consigue un {T05} para ganar un premio instantáneo. {n} Junta 5 {T06} en el medidor de premios para activar el juego de bonificación.",
+            "tutorialPage02": "Comienza con 3 giros iniciales en el juego de bonificación. {n} Junta 4 o más {T06} en la cuadrícula para ganar un premio. {n} En cada giro, si consigues un/a {T06} , los giros restantes se restablecen a 3. {n} Sigue girando hasta que no quede ningún giro o hasta juntar 16 {T06}."
+        },
+        "BONUS": "BONIFICACIÓN",
+        "totalbonuswin": "PREMIO DE BONIFICACIÓN",
+        "IWText": "ELIGE UN EMOJI DE PREMIO INSTANTÁNEO",
+        "bonuswin": "PREMIO DE BONIFICACIÓN",
+        "find": "ENCUENTRA",
+        "win": "PREMIO",
+        "demo": "PRUEBA ",
+        "spin_Left": "VUELTAS\nPENDIENTES",
+        "autospin": "JUGADA\nAUTOMATICA",
+        "button_buy": "COMPRAR",
+        "button_try": "PRUEBE",
+        "button_spin": "GIRAR",
+        "button_move2moneyGame": "JUGAR POR DINERO",
+        "button_autoPlay": "JUGADA AUTOMATICA",
+        "button_playAgain": "JUGAR DE NUEVO",
+        "button_MTMPlayAgain": "INTENTAR DE NUEVO",
+        "button_retry": "REINTENTAR",
+        "button_stop": "PARAR",
+        "wager": "COSTO DEL TICKET",
+        "meter_wager": "COSTO DEL TICKET ",
+        "balance": "SALDO ",
+        "wins": "PREMIO",
+        "wins_demo": "PREMIO DE PRUEBA",
+        "message_nonWin01": "SUERTE",
+        "message_nonWin02": "LA PROXIMA VEZ",
+        "message_buyWin": "FELICITACIONES! HA GANADO",
+        "message_tryWin": "GRACIAS POR JUGAR!\nPODRÍA HABER GANADO",
+        "message_anonymousTryWin": "GRACIAS POR JUGAR!\nPODRÍA HABER GANADO",
+        "message_close": "ACEPTAR",
+        "button_exit": "SALIR",
+        "session_timeout_warning_exit_button": "SALIR",
+        "error_button_exit": "SALIR",
+        "warning_button_continue": "CONTINUAR",
+        "warning_button_exitGame": "SALIR",
+        "warning_title": "ADVERTENCIA",
+        "error_title": "ERROR",
+        "win_up_to": "¡GANE HASTA",
+        "win_up_to_mark": "!",
+        "tutorial_title": "CÓMO JUGAR",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Nivel de premio",
+        "prizeDescription": "Descripción",
+        "prizeValue": "Valor de premios",
+        "paytableWager": "Costo del ticket:",
+        "endBonus": "VUELTAS\nPENDIENTES"
+    }
+}

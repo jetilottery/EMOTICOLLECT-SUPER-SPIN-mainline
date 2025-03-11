@@ -1,0 +1,62 @@
+
+light.png
+size: 1249,624
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/guang copy 2
+  rotate: true
+  xy: 942, 289
+  size: 145, 201
+  orig: 162, 217
+  offset: 4, 16
+  index: -1
+images/guang copy 4
+  rotate: true
+  xy: 942, 142
+  size: 145, 201
+  orig: 162, 217
+  offset: 13, 16
+  index: -1
+images/guang copy 5
+  rotate: true
+  xy: 942, 5
+  size: 135, 209
+  orig: 153, 227
+  offset: 13, 17
+  index: -1
+images/light_left
+  rotate: false
+  xy: 1145, 242
+  size: 101, 95
+  orig: 102, 95
+  offset: 0, 0
+  index: -1
+images/light_middle
+  rotate: true
+  xy: 1145, 146
+  size: 94, 93
+  orig: 94, 93
+  offset: 0, 0
+  index: -1
+images/light_right
+  rotate: false
+  xy: 1145, 339
+  size: 102, 95
+  orig: 102, 96
+  offset: 0, 0
+  index: -1
+images/line003
+  rotate: false
+  xy: 942, 436
+  size: 284, 186
+  orig: 405, 267
+  offset: 46, 33
+  index: -1
+images/line_001
+  rotate: true
+  xy: 2, 2
+  size: 620, 938
+  orig: 654, 978
+  offset: 22, 28
+  index: -1

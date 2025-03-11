@@ -1,0 +1,220 @@
+
+bonus.png
+size: 693,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/BONUS
+  rotate: true
+  xy: 643, 28
+  size: 139, 48
+  orig: 140, 48
+  offset: 0, 0
+  index: -1
+images/belt_back1
+  rotate: false
+  xy: 2, 2
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+images/belt_front
+  rotate: true
+  xy: 632, 169
+  size: 143, 55
+  orig: 143, 55
+  offset: 0, 0
+  index: -1
+images/glow_yellow
+  rotate: false
+  xy: 462, 314
+  size: 212, 212
+  orig: 302, 302
+  offset: 41, 49
+  index: -1
+images/glow_yellow_001
+  rotate: false
+  xy: 2, 38
+  size: 458, 488
+  orig: 468, 501
+  offset: 3, 12
+  index: -1
+images/round
+  rotate: false
+  xy: 462, 17
+  size: 179, 129
+  orig: 183, 132
+  offset: 2, 2
+  index: -1
+images/star
+  rotate: false
+  xy: 462, 148
+  size: 168, 164
+  orig: 169, 165
+  offset: 0, 1
+  index: -1
+
+bonus2.png
+size: 329,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bonusSplit/bonusSplit0001
+  rotate: false
+  xy: 228, 83
+  size: 96, 84
+  orig: 151, 151
+  offset: 28, 33
+  index: -1
+images/bonusSplit/bonusSplit0002
+  rotate: false
+  xy: 228, 169
+  size: 99, 97
+  orig: 151, 151
+  offset: 22, 27
+  index: -1
+images/bonusSplit/bonusSplit0003
+  rotate: true
+  xy: 2, 8
+  size: 114, 108
+  orig: 151, 151
+  offset: 18, 21
+  index: -1
+images/bonusSplit/bonusSplit0004
+  rotate: true
+  xy: 112, 2
+  size: 124, 111
+  orig: 151, 151
+  offset: 5, 20
+  index: -1
+images/bonusSplit/bonusSplit0005
+  rotate: true
+  xy: 96, 128
+  size: 138, 130
+  orig: 151, 151
+  offset: 0, 7
+  index: -1
+images/bonusSplit/bonusSplit0006
+  rotate: false
+  xy: 2, 124
+  size: 92, 142
+  orig: 151, 151
+  offset: 33, 9
+  index: -1
+images/bonusSplit/bonusSplit0007
+  rotate: true
+  xy: 225, 24
+  size: 57, 51
+  orig: 151, 151
+  offset: 50, 2
+  index: -1
+images/bonusSplit/bonusSplit0008
+  rotate: true
+  xy: 225, 7
+  size: 15, 12
+  orig: 151, 151
+  offset: 92, 0
+  index: -1
+
+bonus3.png
+size: 1324,123
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/round/round_000
+  rotate: false
+  xy: 1176, 3
+  size: 146, 118
+  orig: 183, 132
+  offset: 19, 11
+  index: -1
+images/round/round_002
+  rotate: false
+  xy: 2, 5
+  size: 168, 116
+  orig: 183, 132
+  offset: 8, 11
+  index: -1
+images/round/round_004
+  rotate: false
+  xy: 172, 9
+  size: 172, 112
+  orig: 183, 132
+  offset: 8, 10
+  index: -1
+images/round/round_006
+  rotate: false
+  xy: 689, 4
+  size: 166, 117
+  orig: 183, 132
+  offset: 8, 5
+  index: -1
+images/round/round_008
+  rotate: false
+  xy: 1020, 2
+  size: 154, 119
+  orig: 183, 132
+  offset: 13, 3
+  index: -1
+images/round/round_010
+  rotate: false
+  xy: 518, 6
+  size: 169, 115
+  orig: 183, 132
+  offset: 5, 7
+  index: -1
+images/round/round_012
+  rotate: false
+  xy: 346, 9
+  size: 170, 112
+  orig: 183, 132
+  offset: 4, 11
+  index: -1
+images/round/round_014
+  rotate: false
+  xy: 857, 4
+  size: 161, 117
+  orig: 183, 132
+  offset: 9, 11
+  index: -1
+
+bonus4.png
+size: 79,375
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/star/star_000
+  rotate: true
+  xy: 2, 84
+  size: 78, 75
+  orig: 85, 85
+  offset: 1, 9
+  index: -1
+images/star/star_001
+  rotate: false
+  xy: 2, 2
+  size: 75, 80
+  orig: 85, 85
+  offset: 9, 4
+  index: -1
+images/star/star_002
+  rotate: true
+  xy: 2, 243
+  size: 67, 69
+  orig: 85, 85
+  offset: 16, 4
+  index: -1
+images/star/star_003
+  rotate: false
+  xy: 2, 312
+  size: 74, 61
+  orig: 85, 85
+  offset: 1, 4
+  index: -1
+images/star/star_004
+  rotate: false
+  xy: 2, 164
+  size: 66, 77
+  orig: 85, 85
+  offset: 1, 7
+  index: -1
